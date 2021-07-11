@@ -9,3 +9,15 @@ d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj
 d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfo.cs
 d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
 d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.deps.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.runtimeconfig.dev.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\bin\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csprojAssemblyReference.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfoInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.AssemblyInfo.cs
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task1.100Tasks\obj\Debug\netcoreapp2.1\MultiThreading.Task1.100Tasks.genruntimeconfig.cache
