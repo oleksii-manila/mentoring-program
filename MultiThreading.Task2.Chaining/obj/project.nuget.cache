@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "A+fcBm48b3xyGNjeiExfqZ0mWPaS6L2CZhusZK6mga6+T60M5B1U2YfYzzfpRe1KOSpx7UuTKte/rUzSpC9Pjw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Oleksii_Manila\\source\\repos\\mentoring-program\\MultiThreading.Task2.Chaining\\MultiThreading.Task2.Chaining.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Oleksii_Manila\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
