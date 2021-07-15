@@ -7,6 +7,7 @@
    Demonstrate the work of the each case with console utility.
 */
 using System;
+using System.Threading.Tasks;
 
 namespace MultiThreading.Task6.Continuation
 {
@@ -24,6 +25,29 @@ namespace MultiThreading.Task6.Continuation
 
             // feel free to add your code
 
+            Random r = new Random();
+            int[] CreateArray()
+            {
+                throw null;
+            }           
+          
+
+
+            Task<int[]> createArrayOfRandomIntegers = Task.Run(() => CreateArray());
+            Task continuation = createArrayOfRandomIntegers.ContinueWith(x =>
+            {
+                Console.WriteLine("The second task executed regardless of the result of the parent task."); 
+            });
+            Task anotherContinuation = createArrayOfRandomIntegers.ContinueWith(x =>
+            {
+                Console.WriteLine("The third task executed when the parent task finished without success.");
+
+            }, TaskContinuationOptions.OnlyOnFaulted);
+            Task theLastContinuation = createArrayOfRandomIntegers.ContinueWith(x =>
+            {
+                Console.WriteLine("The fourth task executed when the parent task would be finished with fail and parent task thread should be reused for continuation.");
+
+            }, TaskContinuationOptions.OnlyOnFaulted);
             Console.ReadLine();
         }
     }

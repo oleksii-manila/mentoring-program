@@ -5,11 +5,17 @@
  * Use Thread, ThreadPool or Task classes for thread creation and any kind of synchronization constructions.
  */
 using System;
+using System.Collections.Generic;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace MultiThreading.Task5.Threads.SharedCollection
 {
     class Program
     {
+        static EventWaitHandle eventWaitHandle = new AutoResetEvent(false);
+        static List<int> list = new List<int>();
+        static Object first = new Object();
         static void Main(string[] args)
         {
             Console.WriteLine("5. Write a program which creates two threads and a shared collection:");
@@ -18,8 +24,32 @@ namespace MultiThreading.Task5.Threads.SharedCollection
             Console.WriteLine();
 
             // feel free to add your code
+            Task.Factory.StartNew(WorkerThread);
+            Task.Factory.StartNew(PrintingThread);
 
             Console.ReadLine();
+        }
+
+        private static void PrintingThread()
+        {
+            foreach(var item in list)
+            {
+                Console.WriteLine(item);
+            }
+        }
+
+        private static void WorkerThread()
+        {
+            for(int i = 0;i<10; i++)
+            {
+                lock (first)
+                {
+                    list.Add(i);
+                    Thread.Sleep(1000);
+                }
+                PrintingThread();
+            }
+           
         }
     }
 }

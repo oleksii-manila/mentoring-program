@@ -9,3 +9,15 @@ D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join
 D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfo.cs
 D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
 D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.deps.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.runtimeconfig.dev.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\bin\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csprojAssemblyReference.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfoInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.AssemblyInfo.cs
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task4.Threads.Join\obj\Debug\netcoreapp2.1\MultiThreading.Task4.Threads.Join.genruntimeconfig.cache

@@ -9,3 +9,15 @@ d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task3.Matrixes\obj
 d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.dll
 d:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.pdb
 D:\EPAM\Mentoring\Anastasiya\01.multithreading\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.csprojAssemblyReference.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\bin\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.deps.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\bin\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.runtimeconfig.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\bin\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.runtimeconfig.dev.json
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\bin\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\bin\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.csprojAssemblyReference.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.AssemblyInfoInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.AssemblyInfo.cs
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.dll
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.pdb
+C:\Users\Oleksii_Manila\source\repos\mentoring-program\MultiThreading.Task3.Matrixes\obj\Debug\netcoreapp2.1\MultiThreading.Task3.MatrixMultiplier.genruntimeconfig.cache
