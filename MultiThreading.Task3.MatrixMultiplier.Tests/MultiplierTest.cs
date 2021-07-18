@@ -1,4 +1,5 @@
 using System;
+using System.Diagnostics;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MultiThreading.Task3.MatrixMultiplier.Matrices;
 using MultiThreading.Task3.MatrixMultiplier.Multipliers;
@@ -12,7 +13,7 @@ namespace MultiThreading.Task3.MatrixMultiplier.Tests
         public void MultiplyMatrix3On3Test()
         {
             TestMatrix3On3(new MatricesMultiplier());
-            //TestMatrix3On3(new MatricesMultiplierParallel());
+            TestMatrix3On3(new MatricesMultiplierParallel());
         }
 
         [TestMethod]
@@ -20,11 +21,39 @@ namespace MultiThreading.Task3.MatrixMultiplier.Tests
         {
             // todo: implement a test method to check the size of the matrix which makes parallel multiplication more effective than
             // todo: the regular one
+            for(int i=2; i<100; i++)
+            {
+                var timeSpentInRegularMultiplication = TestMatrixNOnN(new MatricesMultiplier(), i);
+                var timeSpentInParallelMultiplication = TestMatrixNOnN(new MatricesMultiplierParallel(), i);
 
-
+                if(timeSpentInRegularMultiplication> timeSpentInParallelMultiplication)
+                {
+                    Console.WriteLine($"Parallel execution was better with matrix size of {i}");
+                }
+            }
         }
 
         #region private methods
+
+        double TestMatrixNOnN(IMatricesMultiplier matrixMultiplier, long size)
+        {
+            if (matrixMultiplier == null)
+            {
+                throw new ArgumentNullException(nameof(matrixMultiplier));
+            }
+
+            var m1 = new Matrix(size, size, true);
+            var m2 = new Matrix(size, size, true);
+
+            var timer = new Stopwatch();
+            timer.Start();
+
+            matrixMultiplier.Multiply(m1, m2);
+
+            timer.Stop();
+
+            return timer.Elapsed.TotalMilliseconds;
+        }
 
         void TestMatrix3On3(IMatricesMultiplier matrixMultiplier)
         {

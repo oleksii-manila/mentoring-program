@@ -32,10 +32,12 @@ namespace MultiThreading.Task5.Threads.SharedCollection
 
         private static void PrintingThread()
         {
-            Console.WriteLine("PrintingThread started");
-            foreach (var item in list)
+            lock (first)
             {
-                Console.WriteLine(item);
+                foreach (var item in list)
+                {
+                    Console.WriteLine(item);
+                }
             }
         }
 
@@ -48,6 +50,7 @@ namespace MultiThreading.Task5.Threads.SharedCollection
                 {
                     list.Add(i);
                     Console.WriteLine($"Added number: {i}");
+                    Thread.Sleep(1000);
                 }
             }
 
